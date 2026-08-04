@@ -69,14 +69,6 @@ Components:
 
 <img width="444" height="431" alt="image" src="https://github.com/user-attachments/assets/4386085e-256d-45ac-a70a-726d498b9a68" />
 
----
-
-
-<img width="433" height="439" alt="image" src="https://github.com/user-attachments/assets/b6c6eb64-179d-4ece-be71-5bd152fd8722" />
-
-
-
-
 
 ---
 
